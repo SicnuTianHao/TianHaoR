@@ -1,0 +1,14 @@
+Package: TianHaoR
+Type: Package
+Title: Test of the mean and covariance of a multivariate normal
+        population,A method for calculating principal component score
+        in principal component analysis and factor score in factor
+        analysis
+Version: 0.1.0
+Author: TianHao
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: The original R package does not contain a variety of tests for multivariate normal population, while the test method given in the multivariate statistical analysis has been implemented in the TianHaoR package to test the mean value and covariance of multivariate normal population,At the same time, we provide a direct method to calculate the principal component score in principal component analysis and factor score in factor analysis
+License: R version 3.6.2 (2019-12-12)
+Encoding: UTF-8
+LazyData: true
+Built: R 3.6.2; ; 2020-06-24 03:25:17 UTC; windows
